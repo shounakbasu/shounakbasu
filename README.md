@@ -1,9 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, this is
 ## Shounak Basu 
 
 
 - 🔭 I’m currently working on my problem solving skills
-- 🌱 I’m currently learning : DSA and ML
+- 🌱 I’m currently learning : DSA
 - 📫 How to reach me: divyaraubasu@gmail.com
 
 ### Skills
