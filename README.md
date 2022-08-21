@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, this is
-## Shounak Basu 
+### Hi there, this is
+## Shounak Basu    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 - 🔭 I’m currently working on my problem solving skills
