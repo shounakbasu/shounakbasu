@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my problem solving skills
 - 🌱 I’m currently learning : DSA
-- 📫 How to reach me: divyaraubasu@gmail.com
+- 📫 How to reach me: divyaranubasu@gmail.com
 
 ### Skills
 <p align="left"> 
