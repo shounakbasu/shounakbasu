@@ -24,3 +24,5 @@
 <a href="https://leetcode.com/S_Basu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s_basu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shomoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shomoy" height="30" width="40" /></a>
 </p>
+
+[![@sbasu's Holopin board](https://holopin.me/sbasu)](https://holopin.io/@sbasu)
