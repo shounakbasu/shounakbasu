@@ -2,10 +2,10 @@
 ## Shounak Basu    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-- 🔭 **I’m currently working on:**
+<!-- 🔭 **I’m currently working on:**
   - a Machine Learning Project
   - Cloud platforms (Google Cloud)
-  - my problem solving skills
+  - my problem solving skills-->
   
 - 🌱 **I’m currently learning :**
   - *Machine Learning*
