@@ -2,12 +2,32 @@
 ## Shounak Basu    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-- 🔭 I’m currently working on my problem solving skills
-- 🌱 I’m currently learning : 
-      1. *Machine Learning*
-      2. *Cloud (Google Cloud)*
-      3. *DSA*
-- 📫 How to reach me: divyaranubasu@gmail.com
+- 🔭 **I’m currently working on:**
+  - a Machine Learning Project
+  - Cloud platforms (Google Cloud)
+  - my problem solving skills
+  
+- 🌱 **I’m currently learning :**
+  - *Machine Learning*
+  - *Cloud (Google Cloud)*
+  - *DSA*
+   
+- 📫 **How to reach me:** 
+  > Email : divyaranubasu@gmail.com
+  
+- 👤 **Profiles :**
+  - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shomoy)
+  - [LeetCode](https://leetcode.com/S_Basu/)
+  - [LinkedIn](https://www.linkedin.com/in/shounak-basu-449197191/)
+  - [HackerRank](https://www.hackerrank.com/Shounak_Basu)
+       
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shounak-basu-449197191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shounakbasu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Shounak_Basu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shounakbasu" height="40" width="50" /></a>
+<a href="https://leetcode.com/S_Basu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s_basu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shomoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shomoy" height="30" width="40" /></a>
+</p>
 
 ### Skills
 <p align="left"> 
@@ -20,12 +40,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shounak-basu-449197191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shounakbasu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Shounak_Basu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shounakbasu" height="40" width="50" /></a>
-<a href="https://leetcode.com/S_Basu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s_basu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shomoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shomoy" height="30" width="40" /></a>
-</p>
+
 
 [![@sbasu's Holopin board](https://holopin.me/sbasu)](https://holopin.io/@sbasu)
