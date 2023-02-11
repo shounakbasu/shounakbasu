@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on my problem solving skills
 - 🌱 I’m currently learning : 
-  1. Machine Learning
-  2. Cloud (Google Cloud)
-  3. DSA
+      1. *Machine Learning*
+      2. *Cloud (Google Cloud)*
+      3. *DSA*
 - 📫 How to reach me: divyaranubasu@gmail.com
 
 ### Skills
